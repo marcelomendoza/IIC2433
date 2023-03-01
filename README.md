@@ -1,6 +1,6 @@
 # IIC2433 - Minería de Datos
 
-Códigos y ejemplos en Python del curso Minería de datos UC (Marcelo Mendoza)
+Códigos y ejemplos en Python del curso Minería de datos UC
 
 * Profesor: [Marcelo Mendoza](https://orcid.org/0000-0002-7969-6041)
 * Ayudantes: TBD
