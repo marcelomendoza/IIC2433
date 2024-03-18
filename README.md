@@ -3,7 +3,7 @@
 Códigos y ejemplos en Python del curso Minería de datos UC
 
 * Profesor: [Marcelo Mendoza](https://orcid.org/0000-0002-7969-6041)
-* Ayudantes: Miguel Fernández, Nicolás Estévez, Benjamín Henríquez, Tomás Lobo, Benito Palacios, Ignacio Quera, Jonathan Riquelme, Vicente Thomas, Gustavo Truan.
+* Ayudantes: Miguel Fernández (coordinador), Nicolás Estévez, Benjamín Henríquez, Benito Palacios, Ignacio Quera, Vicente Thomas, Vicente García, Ariel Reyes, Joaquín Umaschi.
 * Clases: Martes: 5-6; Ayudantías: Jueves: 5
 
-2023/2
+2024/1
